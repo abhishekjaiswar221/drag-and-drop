@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.0.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5",
     "tailwindcss": "^4.0.4"
   },
   "devDependencies": {
@@ -25,6 +26,8 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.18",
     "globals": "^15.14.0",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.11",
     "vite": "^6.1.0"
   }
 }
