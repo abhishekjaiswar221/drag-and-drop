@@ -15,7 +15,7 @@ const Home = () => {
         <Link to={"/game-page"}>
           <button
             type="button"
-            className="text-white bg-[#1da1f2] hover:bg-[#1da1f2]/90 focus:ring-4 focus:outline-none focus:ring-[#1da1f2]/50 font-medium rounded-2xl text-lg px-12 py-4 text-center inline-flex items-center dark:focus:ring-[#1da1f2]/55 me-2 mb-2"
+            className="text-white cursor-pointer bg-[#1da1f2] hover:bg-[#1da1f2]/90 focus:ring-4 focus:outline-none focus:ring-[#1da1f2]/50 font-medium rounded-2xl text-lg px-12 py-4 text-center inline-flex items-center dark:focus:ring-[#1da1f2]/55 me-2 mb-2"
           >
             Start Game
           </button>
